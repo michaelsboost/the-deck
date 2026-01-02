@@ -20,12 +20,14 @@
 ## 🗂️ **Included Apps**
 The Deck links out to all of my card-based projects:
 
+- 🎯 **[The Interview](https://github.com/michaelsboost/the-interview)** – Serious questions. Safe practice.
+- 🌿 **[Urban Forager](https://github.com/michaelsboost/Urban-Forager)** – Learn edible weeds through play — quizzes + plant library.
 - 🤝 **[Common Ground](https://github.com/michaelsboost/common-ground)** – Find connection one question at a time.  
 - 👨‍👩‍👧‍👦 **[Family Cards](https://github.com/michaelsboost/familycards)** – Stories and traditions that bring families closer.  
 - 💞 **[Couple Cards](https://github.com/michaelsboost/couplecards)** – Prompts for laughter, intimacy, and deep conversations.  
 - 🪓 **[Survival Cards](https://github.com/michaelsboost/survivalcards)** – Sharpen survival skills through prompts and discussion.  
 - 🛹 **[Skate Roulette](https://github.com/michaelsboost/skateroulette)** – Spin for random tricks, push your limits.  
-- 🛹 **[Cards on the Table](https://github.com/michaelsboost/CardsOnTheTable)** – Civil, party-agnostic prompts for tough issues.
+- 👩‍⚖️ **[Cards on the Table](https://github.com/michaelsboost/CardsOnTheTable)** – Civil, party-agnostic prompts for tough issues.
 
 ---
 
